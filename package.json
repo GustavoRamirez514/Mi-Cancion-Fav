@@ -1,0 +1,16 @@
+{
+  "name":  "reproductor",
+  "version":  "1.0",
+  "description":  "Proyecto del Curso Profesional de JavaScript.",
+  "license":  "MIT",
+  "author":  "Gustavo Ramirez",
+  "keywords":  [
+   "platzi"
+   ],
+  "scripts":  {
+   "start":  "live-server"
+   },
+  "devDependencies":  {
+       "live-server":  "^1.2.1"
+     }
+  }
